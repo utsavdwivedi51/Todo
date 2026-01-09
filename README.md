@@ -8,12 +8,12 @@ Users can **add, delete, and mark tasks as complete**, ensuring better productiv
 
 ---
 
-## 📸 Preview
+## Preview
 <img width="589" height="545" alt="image" src="https://github.com/user-attachments/assets/733da3d1-64d3-4385-b939-98e5e86d9846" />
 
 
 
-## ✨ Features
+## Features
 
 - Add new tasks
 - Mark tasks as completed
@@ -21,13 +21,13 @@ Users can **add, delete, and mark tasks as complete**, ensuring better productiv
 - Local storage support (tasks persist after reload) *(if implemented)*
 - Clean and responsive UI
 
-## 🛠 Tech Stack
+## Tech Stack
 
 | Frontend - HTML, CSS, JavaScript |
 | Storage - Local Storage |
 | Tools - VS Code, Git, GitHub |
 
-## 📂 Project Structure
+## Project Structure
 
 bash
 Todo/
