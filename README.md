@@ -1,9 +1,8 @@
-# ✔ Todo App
+# Todo App
 
 A simple and interactive **To-Do List Web Application** that helps users manage daily tasks efficiently.  
 Users can **add, delete, and mark tasks as complete**, ensuring better productivity and organization.
 
- GitHub Repository: https://github.com/utsavdwivedi51/Todo  
  Live Demo: https://utsavdwivedi51.github.io/Todo/
 
 ---
